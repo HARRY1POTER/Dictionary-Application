@@ -1,0 +1,3 @@
+## Description
+
+The Interactive Dictionary Application is a user-friendly software designed to provide quick and accurate definitions for words entered by users. This project aims to develop a comprehensive and interactive dictionary that not only delivers precise meanings but also enhances the learning experience with additional features. Users can search for words to retrieve detailed definitions, example sentences, synonyms, antonyms, and pronunciation guides. The intuitive design and responsive layout ensure easy navigation and compatibility with various devices, making it an essential tool for students, writers, language learners, and general users.
